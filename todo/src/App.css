@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  cursor: pointer;
+  color: navy;
+}
+
+.lineThru {
+  text-decoration: line-through;
+  cursor: pointer;
 }
 
 .App-logo {
